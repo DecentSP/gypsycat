@@ -1,0 +1,17 @@
+{
+  "title": "<Mandarin Gypsycat's Barricade>",
+  "description": "<Two volume sci-fi josei from Akane Torikai.>",
+  "artist": "<Akane Torikai>",
+  "author": "<Akane Torikai>",
+  "cover": "<https://i.imgur.com/h95wQFd.jpg>",
+  "chapters": {
+    "<1>": {
+      "title": "<Episode 01>",
+      "volume": "<1>",
+      "groups": {
+        "<DecentSP>": "/proxy/api/imgur/chapter/<Ors9cPz>/"
+      },
+      "last_updated": "1616368746"
+    }
+  }
+}
