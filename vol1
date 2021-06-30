@@ -52,6 +52,14 @@
         "DecentSP": "/proxy/api/imgur/chapter/YOEIm5Z"
       },
       "last_updated": "1624975875"
+    },
+    "7": {
+      "title": "Episode 07",
+      "volume": "1",
+      "groups": {
+        "DecentSP": "/proxy/api/imgur/chapter/az0yj8i"
+      },
+      "last_updated": "1625060550"
     }
   }
 }
